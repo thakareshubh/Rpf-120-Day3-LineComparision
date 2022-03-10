@@ -1,0 +1,16 @@
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\bin\Debug\net5.0\Uc-3-CompairTwoline.exe
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\bin\Debug\net5.0\Uc-3-CompairTwoline.deps.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\bin\Debug\net5.0\Uc-3-CompairTwoline.runtimeconfig.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\bin\Debug\net5.0\Uc-3-CompairTwoline.runtimeconfig.dev.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\bin\Debug\net5.0\Uc-3-CompairTwoline.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\bin\Debug\net5.0\Uc-3-CompairTwoline.pdb
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.csproj.AssemblyReference.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.AssemblyInfoInputs.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.AssemblyInfo.cs
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.csproj.CoreCompileInputs.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\refint\Uc-3-CompairTwoline.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.pdb
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\Uc-3-CompairTwoline.genruntimeconfig.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-3-CompairTwoline\Uc-3-CompairTwoline\obj\Debug\net5.0\ref\Uc-3-CompairTwoline.dll
