@@ -1,0 +1,16 @@
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\bin\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.exe
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\bin\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.deps.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\bin\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.runtimeconfig.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\bin\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.runtimeconfig.dev.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\bin\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\bin\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.pdb
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.csproj.AssemblyReference.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.AssemblyInfoInputs.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.AssemblyInfo.cs
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.csproj.CoreCompileInputs.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\refint\Uc-2-CheckEqualityOfTwoLine.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.pdb
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\Uc-2-CheckEqualityOfTwoLine.genruntimeconfig.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-2-CheckEqualityOfTwoLine\Uc-2-CheckEqualityOfTwoLine\obj\Debug\net5.0\ref\Uc-2-CheckEqualityOfTwoLine.dll
