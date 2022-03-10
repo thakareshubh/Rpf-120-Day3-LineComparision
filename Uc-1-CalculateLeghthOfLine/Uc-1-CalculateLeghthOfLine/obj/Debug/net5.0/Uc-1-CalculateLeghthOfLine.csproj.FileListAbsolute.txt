@@ -1,0 +1,16 @@
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\bin\Debug\net5.0\Uc-1-CalculateLeghthOfLine.exe
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\bin\Debug\net5.0\Uc-1-CalculateLeghthOfLine.deps.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\bin\Debug\net5.0\Uc-1-CalculateLeghthOfLine.runtimeconfig.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\bin\Debug\net5.0\Uc-1-CalculateLeghthOfLine.runtimeconfig.dev.json
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\bin\Debug\net5.0\Uc-1-CalculateLeghthOfLine.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\bin\Debug\net5.0\Uc-1-CalculateLeghthOfLine.pdb
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.csproj.AssemblyReference.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.AssemblyInfoInputs.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.AssemblyInfo.cs
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.csproj.CoreCompileInputs.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\refint\Uc-1-CalculateLeghthOfLine.dll
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.pdb
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\Uc-1-CalculateLeghthOfLine.genruntimeconfig.cache
+E:\.net\Rpr-120-Day3-LineComparisionProblem\Uc-1-CalculateLeghthOfLine\Uc-1-CalculateLeghthOfLine\obj\Debug\net5.0\ref\Uc-1-CalculateLeghthOfLine.dll
